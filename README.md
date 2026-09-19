@@ -14,7 +14,15 @@
 
 ###
 
-<p align="left">I'm a Python developer who enjoys turning complex ideas into scalable systems ,<br>from backend APIs and Telegram bots to AI-based desktop applications.<br><br>- 🔭 I’m working on backend systems, REST APIs, and Telegram bots<br>- 🧠 I build AI-powered applications using face recognition and computer vision<br>- 📚 Currently learning FastAPI, scalable system design, and secure architectures<br>- ⚡ In my free time I develop desktop AI apps, automation tools, and smart identity systems</p>
+<p align="left">
+I'm a Python developer focused on backend development, SQL &amp; databases, troubleshooting, automation, and AI-powered applications.<br><br>
+
+- 🔭 I build backend systems, REST APIs, and Telegram-based applications<br>
+- 🗄️ I work with SQL, relational databases, and complex queries<br>
+- 🧠 I develop AI-powered applications using computer vision and biometric technologies<br>
+- 🔧 I enjoy troubleshooting technical problems, analyzing root causes, and finding practical solutions<br>
+- 📚 Continuously learning and improving my software engineering skills
+</p>
 
 ###
 
@@ -22,7 +30,7 @@
   <a href="https://www.linkedin.com/in/nozhan-nazari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
   </a>
-  <a href="nozhannazari4484@gmail.com" target="_blank">
+  <a href="mailto:nozhannazari4484@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/nozhan.lmn.3/" target="_blank">
@@ -69,7 +77,28 @@
 
 ###
 
-<p align="left">🐍 Python  <br>🗄 SQL (MySQL)  <br>⚡ FastAPI / Flask  <br>📦 RESTful API Design  <br>🔐 Authentication & Authorization</p>
+<p align="left">
+🐍 Python<br>
+🗄️ SQL &amp; Relational Databases<br>
+⚡ FastAPI / Flask<br>
+📦 RESTful API Design<br>
+🔎 Query Analysis &amp; Complex SQL Queries<br>
+🔐 Authentication &amp; Authorization
+</p>
+
+###
+
+<h3 align="left">🔧 Troubleshooting &amp; Problem Solving</h3>
+
+###
+
+<p align="left">
+🔍 Systematic Debugging &amp; Error Analysis<br>
+🧩 Root Cause Analysis<br>
+🛠️ Issue Resolution &amp; Technical Problem Solving<br>
+📋 Technical Documentation &amp; Reporting<br>
+⚙️ Process Analysis &amp; Improvement
+</p>
 
 ###
 
@@ -101,7 +130,23 @@
 
 ###
 
-<p align="left">🔹 Assignment Manager Platform  <br>A student-level assignment management system with REST API, Telegram bot integration, and a web dashboard<br><br>🔹 Smart Identity Access Platform  <br>An intelligent authentication system combining face recognition and secure access control<br><br>🔹 FaceSense AI  <br>A real-time face analysis desktop app with face mesh visualization, emotion detection, and face recognition<br><br>🔹 MagicVolumeCam  <br>Control system volume using hand gestures via MediaPipe, OpenCV, and PyQt6<br><br>🔹 VoxScript  <br>A real-time multi-language audio transcription desktop app powered by Whisper and PyQt6</p>
+<p align="left">
+
+🔹 <strong>Smart Identity Access</strong> — AI-powered multi-factor biometric authentication platform<br><br>
+
+🔹 <strong>Code-Scope</strong> — Code analysis and technical documentation platform<br><br>
+
+🔹 <strong>RQ-Code</strong> — Secure QR code generation, management, and analytics platform<br><br>
+
+🔹 <strong>ShadowGate</strong> — Hybrid offline-first automation and data management platform<br><br>
+
+🔹 <strong>Assignment Manager</strong> — REST API, Telegram bot, dashboard, and MySQL-based system<br><br>
+
+🔹 <strong>FaceSense AI</strong> — Real-time face analysis and computer vision application<br><br>
+
+🔹 <strong>VoxScript</strong> — Real-time multi-language audio transcription application
+
+</p>
 
 ###
 
