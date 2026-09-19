@@ -132,12 +132,12 @@ I'm a Python developer focused on backend development, SQL &amp; databases, trou
 
 <p align="left">
 
-🔹 <strong>Smart Identity Access</strong> — AI-powered multi-factor biometric authentication platform<br><br>
-🔹 <strong>Code-Scope</strong> — Code analysis and technical documentation platform<br><br>
-🔹 <strong>RQ-Code</strong> — Secure QR code generation, management, and analytics platform<br><br>
-🔹 <strong>ShadowGate</strong> — Hybrid offline-first automation and data management platform<br><br>
-🔹 <strong>Assignment Manager</strong> — REST API, Telegram bot, dashboard, and MySQL-based system<br><br>
-🔹 <strong>FaceSense AI</strong> — Real-time face analysis and computer vision application<br><br>
+🔹 <strong>Smart Identity Access</strong> — AI-powered multi-factor biometric authentication platform<br>
+🔹 <strong>Code-Scope</strong> — Code analysis and technical documentation platform<br>
+🔹 <strong>RQ-Code</strong> — Secure QR code generation, management, and analytics platform<br>
+🔹 <strong>ShadowGate</strong> — Hybrid offline-first automation and data management platform<br>
+🔹 <strong>Assignment Manager</strong> — REST API, Telegram bot, dashboard, and MySQL-based system<br>
+🔹 <strong>FaceSense AI</strong> — Real-time face analysis and computer vision application<br>
 🔹 <strong>VoxScript</strong> — Real-time multi-language audio transcription application
 
 </p>
